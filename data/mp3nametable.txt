@@ -1,5 +1,10 @@
 //Map Name.rsw#bgm\\Music number#
 
+// Jobless
+payo2.rsw#bgm\\14.mp3#
+pa2_in01.rsw#bgm\\14.mp3#
+pa2_in02.rsw#bgm\\14.mp3#
+
 // 2018 «“∑Œ¿©
 1@halo.rsw#bgm\\84.mp3#
 

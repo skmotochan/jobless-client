@@ -1,3 +1,7 @@
+//Jobless
+pa2_in01.rsw#
+pa2_in02.rsw#
+
 //201805 17.1 Ãß°¡¸Ê
 pub_cat.rsw#
 rgsr_in.rsw#
