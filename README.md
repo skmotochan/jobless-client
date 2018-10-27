@@ -1,6 +1,7 @@
-ROenglishRE
+Jobless RO Client
 ============================
 Project created by zackdreaver @2015
+Modified by skmotochan @2018
 
 An english translation project for Korea Ragnarok Online. Focused on translating items and skills.
 
