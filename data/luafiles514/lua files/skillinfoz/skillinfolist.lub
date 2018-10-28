@@ -1840,7 +1840,7 @@ SKILL_INFO_LIST = {
 		"GS_INCREASING",
 		SkillName = "Increasing Accuracy",
 		MaxLv = 1,
-		SpAmount = { 30 },
+		SpAmount = { 90 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
 		_NeedSkillList = {
@@ -3389,7 +3389,7 @@ SKILL_INFO_LIST = {
 		"MC_MAMMONITE",
 		SkillName = "Mammonite",
 		MaxLv = 10,
-		SpAmount = { 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 },
+		SpAmount = { 50, 50, 50, 50, 50, 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 }
 	},
@@ -4565,7 +4565,7 @@ SKILL_INFO_LIST = {
 		"PR_GLORIA",
 		SkillName = "Gloria",
 		MaxLv = 5,
-		SpAmount = { 20, 20, 20, 20, 20 },
+		SpAmount = { 60, 60, 60, 60, 60 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -5715,7 +5715,7 @@ SKILL_INFO_LIST = {
 		"SM_ENDURE",
 		SkillName = "Endure",
 		MaxLv = 10,
-		SpAmount = { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 },
+		SpAmount = { 50, 50, 50, 50, 50, 50, 50, 50, 50, 50 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -10320,7 +10320,7 @@ SKILL_INFO_LIST = {
 		"GC_HALLUCINATIONWALK",
 		SkillName = "Hallucination Walk",
 		MaxLv = 5,
-		SpAmount = { 100, 100, 100, 100, 100 },
+		SpAmount = { 250, 250, 250, 250, 250 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -10672,7 +10672,7 @@ SKILL_INFO_LIST = {
 		"ASC_EDP",
 		SkillName = "Enchant Deadly Poison",
 		MaxLv = 5,
-		SpAmount = { 60, 70, 80, 90, 100 },
+		SpAmount = { 180, 210, 240, 270, 300 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -10713,7 +10713,7 @@ SKILL_INFO_LIST = {
 		"SN_SIGHT",
 		SkillName = "True Sight",
 		MaxLv = 10,
-		SpAmount = { 20, 20, 25, 25, 30, 30, 35, 35, 40, 40 },
+		SpAmount = { 140, 160, 180, 200, 220, 240, 260, 280, 300, 320 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -11152,7 +11152,7 @@ SKILL_INFO_LIST = {
 		"RA_UNLIMIT",
 		SkillName = "Unlimit",
 		MaxLv = 5,
-		SpAmount = { 100, 120, 140, 160, 180 },
+		SpAmount = { 250, 300, 350, 400, 450 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -11459,7 +11459,7 @@ SKILL_INFO_LIST = {
 		"RL_C_MARKER",
 		SkillName = "Crimson Marker",
 		MaxLv = 1,
-		SpAmount = { 10 },
+		SpAmount = { 100 },
 		bSeperateLv = false,
 		AttackRange = { 11 },
 		_NeedSkillList = {

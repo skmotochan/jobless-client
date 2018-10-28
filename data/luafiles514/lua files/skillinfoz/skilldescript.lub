@@ -150,18 +150,18 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Enables attacking and movement",
 		"while receiving damage, but is automatically",
 		"canceled after skill duration elapses or after",
-		"caster is hit by 7 attacks. 10 sec cast delay.",
+		"caster is hit by 30 attacks. 30 sec cast delay.",
 		"Has no effect in War of Emperium.^000000",
-		"[Lv 1]: ^77777710 sec, Mdef +1^000000",
-		"[Lv 2]: ^77777713 sec, Mdef +2^000000",
-		"[Lv 3]: ^77777716 sec, Mdef +3^000000",
-		"[Lv 4]: ^77777719 sec, Mdef +4^000000",
-		"[Lv 5]: ^77777722 sec, Mdef +5^000000",
-		"[Lv 6]: ^77777725 sec, Mdef +6^000000",
-		"[Lv 7]: ^77777728 sec, Mdef +7^000000",
-		"[Lv 8]: ^77777731 sec, Mdef +8^000000",
-		"[Lv 9]: ^77777734 sec, Mdef +9^000000",
-		"[Lv 10]: ^77777737 sec, Mdef +10^000000"
+		"[Lv 1]: ^77777724 sec, Mdef +1^000000",
+		"[Lv 2]: ^77777728 sec, Mdef +2^000000",
+		"[Lv 3]: ^77777732 sec, Mdef +3^000000",
+		"[Lv 4]: ^77777736 sec, Mdef +4^000000",
+		"[Lv 5]: ^77777740 sec, Mdef +5^000000",
+		"[Lv 6]: ^77777744 sec, Mdef +6^000000",
+		"[Lv 7]: ^77777748 sec, Mdef +7^000000",
+		"[Lv 8]: ^77777752 sec, Mdef +8^000000",
+		"[Lv 9]: ^77777756 sec, Mdef +9^000000",
+		"[Lv 10]: ^77777760 sec, Mdef +10^000000"
 	},
 	[SKID.MG_SRECOVERY] = {
 		"Increase SP Recovery",
@@ -566,16 +566,16 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Uses the power of greed to strike",
 		"a single target with a strong blow, dealing",
 		"high damage. Consumes some Zeny.^000000",
-		"[Lv 1]: ^777777150% ATK, 100 zeny^000000",
-		"[Lv 2]: ^777777200% ATK, 200 zeny^000000",
-		"[Lv 3]: ^777777250% ATK, 300 zeny^000000",
-		"[Lv 4]: ^777777300% ATK, 400 zeny^000000",
-		"[Lv 5]: ^777777350% ATK, 500 zeny^000000",
-		"[Lv 6]: ^777777400% ATK, 600 zeny^000000",
-		"[Lv 7]: ^777777450% ATK, 700 zeny^000000",
-		"[Lv 8]: ^777777500% ATK, 800 zeny^000000",
-		"[Lv 9]: ^777777550% ATK, 900 zeny^000000",
-		"[Lv 10]: ^777777600% ATK, 1,000 zeny^000000"
+		"[Lv 1]: ^777777150% ATK, 10 zeny^000000",
+		"[Lv 2]: ^777777200% ATK, 20 zeny^000000",
+		"[Lv 3]: ^777777250% ATK, 30 zeny^000000",
+		"[Lv 4]: ^777777300% ATK, 40 zeny^000000",
+		"[Lv 5]: ^777777350% ATK, 50 zeny^000000",
+		"[Lv 6]: ^777777400% ATK, 60 zeny^000000",
+		"[Lv 7]: ^777777450% ATK, 70 zeny^000000",
+		"[Lv 8]: ^777777500% ATK, 80 zeny^000000",
+		"[Lv 9]: ^777777550% ATK, 90 zeny^000000",
+		"[Lv 10]: ^777777600% ATK, 100 zeny^000000"
 	},
 	[SKID.AC_OWL] = {
 		"Owl's Eye",
@@ -5656,7 +5656,7 @@ SKILL_DESCRIPT = {
 		"^CC3399Requirement: Snake Eye 10, Coin Flip 2^000000",
 		"Skill Form: ^339900Supportive^000000",
 		"Description: ^777777Consume 4 coins to add +20",
-		"Accuracy, +4 DEX, and +4 AGI for a 1 minute",
+		"Accuracy, +4 DEX, and +4 AGI for a 3 minute",
 		"duration.^000000"
 	},
 	[SKID.GS_MAGICALBULLET] = {
@@ -10649,7 +10649,7 @@ SKILL_DESCRIPT = {
 		"on the mini map. Only 3 Crimson Markers can",
 		"be activate at a time. Boosts Quick Draw",
 		"Shot, Dragon Tail and Hammer of God damage.",
-		"Lasts for 30 second.^000000"
+		"Lasts for 5 minutes.^000000"
 	},
 	[SKID.RL_FIREDANCE] = {
 		"Fire Dance (Dance of Massacre)",
