@@ -3272,9 +3272,9 @@ Destroy instance#
 [%s] successfully upgrades an equipment, [+%d %s] obtained.#
 [%s] fails to upgrade [+%d %s].#
 You can leave a party after delegation.#
-Upgrade#
-Downgrade#
-Base#
+Ascending#
+Descending#
+Sort#
 Modified file found. Please restart the game.#
 %s can't be used in this map.#
 Feed \nyourself#
